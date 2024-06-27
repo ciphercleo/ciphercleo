@@ -2,7 +2,7 @@
 
 ### Desenvolvedora Front-End
 
-Sou um desenvolvedora front-end apaixonado por criar interfaces de usuário incríveis e funcionais. Tenho experiência com HTML, CSS e JavaScript, e estou em constante aprendizado para aprimorar minhas habilidades e acompanhar as tendências do mercado.
+Sou um desenvolvedora front-end apaixonada por criar interfaces de usuário incríveis e funcionais. Tenho experiência com HTML, CSS e JavaScript, e estou em constante aprendizado para aprimorar minhas habilidades e acompanhar as tendências do mercado.
 
 <div>
 <a href="https://github.com/ciphercleo">
