@@ -6,8 +6,9 @@ Sou um desenvolvedora front-end apaixonada por criar interfaces de usuário incr
 
 <div>
 <a href="https://github.com/ciphercleo">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciphercleo&layout=compact&langs_count=7&theme=tokyonight"/>
-[<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ciphercleo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>](https://github-readme-stats.vercel.app/api?username=ciphercleo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciphercleo&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ciphercleo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+</a>
 </div>
 
 ### Tecnologias e Ferramentas
