@@ -13,6 +13,7 @@ Sou um desenvolvedora front-end apaixonada por criar interfaces de usuário incr
 
 ### Tecnologias e Ferramentas
 - **Linguagens:**
+  ![Gherkin](https://img.shields.io/badge/Gherkin-00A300?style=for-the-badge&logo=cucumber&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - **Bibliotecas e Frameworks:**
