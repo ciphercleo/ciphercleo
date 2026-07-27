@@ -5,17 +5,6 @@
 Sou estudante e entusiasta da área de Qualidade de Software, apaixonada por tecnologia e por garantir que aplicações sejam confiáveis, funcionais e entreguem a melhor experiência aos usuários.
 
 Atualmente estou aprofundando meus conhecimentos em testes manuais e automação com Cypress, JavaScript e Gherkin, desenvolvendo projetos práticos para fortalecer minhas habilidades e construir um portfólio sólido.
-<p align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=ciphercleo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-  />
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciphercleo&layout=compact&langs_count=8&theme=tokyonight"
-  />
-</p>
----
 
 ## 🛠 Tecnologias e Ferramentas
 
